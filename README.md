@@ -1,3 +1,3 @@
 ### Главная
 ## Отчёт
-Реферат [Data Science – Наука о данных](https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D1%83%D0%BA%D0%B0_%D0%BE_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)
+Реферат [Data Science – Наука о данных](https://github.com/Korotkovw/web.Korotkovw/raw/main/%D0%A0%D0%B5%D1%84%D0%B5%D1%80%D0%B0%D1%82%20%D0%98%D0%A2.pdf)
